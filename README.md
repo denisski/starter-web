@@ -18,4 +18,4 @@ Please fork this repository and then Pull Requests for Review.
 
 ### Copyright
 
-2020 Git.Training.
+2020 Git.Training. All rights reserved.

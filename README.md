@@ -9,6 +9,7 @@ My introduction
 
 Sample website with plenty of files for demos
 
-## Deployement
+## Deployment
+My deployment
 
 ## How To Contribute

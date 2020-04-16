@@ -14,6 +14,8 @@ My deployment
 
 ## How To Contribute
 
+Please fork this repository and then Pull Requests for Review.
+
 ### Copyright
 
 2020 Git.Training.
